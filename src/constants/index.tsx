@@ -9,12 +9,12 @@ import { IoGridOutline } from 'react-icons/io5';
 import type { Project } from '../types';
 
 export const personalInfo = {
-	name: 'Kintarō Ōe',
-	age: 25,
-	location: 'Tokio, Japón',
-	occupation: 'Full-Stack Developer & Traveling Tech Enthusiast',
+	name: 'Marcela',
+	age: 26,
+	location: 'El Salvador',
+	occupation: 'Analista de sistemas',
 	overview:
-		'A mis 25 años deje atrás la universidad para aprender de la vida en la práctica! Hoy, tras recorrer Japón de norte a sur, domino tecnologías front-end y back-end, y sigo buscando proyectos que me reten.',
+		'¡Hola! Soy una apasionada programadora junior de 26 años, entusiasta y llena de energía, proveniente de El Salvador. Mi pasión por la tecnología me impulsa a buscar constantemente nuevos proyectos emocionantes donde pueda aprender y crecer como profesional.',
 	socialLinks: [
 		{
 			id: 1,
@@ -35,8 +35,8 @@ export const personalInfo = {
 			icon: <FaXTwitter size={26} />,
 		},
 	],
-	contactEmail: 'kintaro@gmail.com',
-	phoneNumber: '+81 90-1234-5678',
+	contactEmail: 'marcela@gmail.com',
+	phoneNumber: '+0000-0000',
 	photoSrc: '/foto.png',
 };
 
