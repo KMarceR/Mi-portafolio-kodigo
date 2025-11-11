@@ -30,4 +30,4 @@ src/
 ```
 ## Mi frase favorita
 
-> “¡Ve mas alla, PLUS ULTRA!” – All Might
+> “No importa lo aterrador que pueda ser, tienes que sonreir y decir que estas bien. Los que siguen sonriendo son los mas fuertes despues de todo.” – All Might
