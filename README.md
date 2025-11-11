@@ -1,7 +1,7 @@
 # Portafolio de Marcela
 
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Framework Frontend**: React con TypeScript
 - **Herramienta de Construcción**: Vite
@@ -9,7 +9,7 @@
 - **Iconos**: React Icons
 - **Gestión de Estado**: React Hooks (useState)
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 ```plaintext
 src/
