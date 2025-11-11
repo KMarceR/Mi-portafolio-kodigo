@@ -28,6 +28,6 @@ src/
 ├── App.tsx                 # Componente raíz
 └── main.tsx                # Punto de entrada
 ```
-
+## Mi frase favorita
 
 > “¡Ve mas alla, PLUS ULTRA!” – All Might
